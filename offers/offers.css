@@ -17,10 +17,8 @@ body {
   width: 100%;
 }
 .container {
-  padding-left: 15px;
-  padding-right: 15px;
-  margin-right: auto;
-  margin-left: auto;
+  margin: auto;
+  text-align: center;
 }
 
  @media (max-width: 300px) {
@@ -141,9 +139,10 @@ color: #ffffff;
  /* staer offer */
 /* start offer */
 
-.offer .container{
+.offer .container {
+ 
  margin-top: 50px;
- width: 80%;
+ width: 100%;
  
 padding-bottom: 10px;
 
