@@ -306,3 +306,15 @@ body {
     color: var(--secondary-color);
   }
 }
+
+.time{
+
+font-size: 30px;
+font-weight: 700;
+
+}
+
+.time .container{
+
+  text-align: center;
+}
